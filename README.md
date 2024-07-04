@@ -1,0 +1,6 @@
+# Las Condes – Centro Corridor Case Study
+
+## Logit Model Developments from Multinomial Logit model (MNL) to Nested Logit (NL) and Cross-Nested Logit (CNL)
+
+### Abstract
+This study develops and compares the multinomial logit model, nested logit model, and cross-nested logit model using a case study of transport mode choice for commute trips in the Las Condes – Centro corridor of Santiago, Chile (Ortuzar and Donoso, 1983). Using the R package of Apollo, this study ran 10 logit models in total: 4 multinomial logit models, 5 nested logit models, and 1 cross-nested logit model (Bunch et al., 1993; Hess & Palma, 2019). Model improvements are done by introducing one-by-one the effect of income on the alternatives’ attributes, the effect of decision-makers’ characteristics, and both. The nested model and cross-nested logit model divide the alternatives into private use or public use of mode. The results show that the income holds a significant impact on the utility. The interaction between income and travel costs changes the utility’s trajectory. Moreover, the nesting is based on the interaction between income and travel costs. It calls transit agencies and policy-makers to review the public transportation fare and its market target to be more sensitive to income level.
